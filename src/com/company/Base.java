@@ -6,7 +6,7 @@ public class Base {
     }
 
     public void printObj() {
-	// f1
+	// f1--11
         System.out.println("from base obj");
     }
 }
